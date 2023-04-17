@@ -2,6 +2,7 @@
 
 ### Here is partial Security Incident Reports from Beosin:closed_book:：
 
+* Analysis Report of the Deri Protocol Incident.pdf --Apr 9, 2023
 * Analysis of the Euler Finance’s 197M Exploit.pdf --Mar 13, 2023
 * Beosin’s Analysis of Team Finance’s $13M Exploit.pdf --Oct 27, 2022
 * BNB Chain’s $850 Million Hack — Using Beosin Trace to Investigate the Stolen Funds.pdf --Oct 7, 2022
