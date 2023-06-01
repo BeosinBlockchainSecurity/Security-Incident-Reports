@@ -10,3 +10,4 @@
 * Beosin’s Detailed Analysis of Solana Attack.pdf --Aug 3, 2022
 * Harmony Bridge Hacked for $100M due to Suspected Private Key Compromise.pdf --Jun 24, 2022
 * A rug pull of $1.8M, an analysis of zkSync dex Merlin security incident.pdf --Apr 29,2023
+* Beosin has discovered a vulnerability in the Circom verification library, identified as CVE-2023–33252 --May 25,2023
