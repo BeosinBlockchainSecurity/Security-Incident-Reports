@@ -11,3 +11,5 @@
 * Harmony Bridge Hacked for $100M due to Suspected Private Key Compromise.pdf --Jun 24, 2022
 * A rug pull of $1.8M, an analysis of zkSync dex Merlin security incident.pdf --Apr 29,2023
 * Beosin has discovered a vulnerability in the Circom verification library, identified as CVE-2023–33252 --May 25,2023
+* Beosin Security Researchers Discovered SnarkJS Library Vulnerability CVE-2023–33252.pdf --June 7,2023
+* Got stolen after signing a message Those who have used Uniswap, please be careful! Let Beosin demystify Permit2 phishing.pdf --June 15,2023
