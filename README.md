@@ -15,3 +15,6 @@
 * Got stolen after signing a message Those who have used Uniswap, please be careful! Let Beosin demystify Permit2 phishing.pdf --June 15,2023
 * Critical Vulnerability in Move VM Can Cause Total Network Shutdown and Potential Hard Fork in Sui, Aptos, and Other Public Blockchains.pdf --June 16,2023
 * A $60 million wallet theft. Beosin KYT Reveals the Hackers’ Money Laundering Tactics.pdf --June 26,2023
+* Following Poly Network Attack Beosin KYTAML Keeps Tracing Stolen Funds and Unveils Hackers' Tactic.pdf --July 04, 2023
+
+
