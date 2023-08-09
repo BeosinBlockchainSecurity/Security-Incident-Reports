@@ -16,5 +16,8 @@
 * Critical Vulnerability in Move VM Can Cause Total Network Shutdown and Potential Hard Fork in Sui, Aptos, and Other Public Blockchains.pdf --June 16,2023
 * A $60 million wallet theft. Beosin KYT Reveals the Hackers’ Money Laundering Tactics.pdf --June 26,2023
 * After Poly Network was attacked, Beosin KYT/AML keeps tracing the flow of stolen funds and monitoring the hacker.pdf --July 04, 2023
+* Eralend Suffers $3.4 Million in Losses from Attack.pdf--July 31,2023
+* Multiple Projects Attacked Due to Vyper Reentrancy Vulnerability with a total loss of more than $59 Million.pdf--July 31,2023
+
 
 
