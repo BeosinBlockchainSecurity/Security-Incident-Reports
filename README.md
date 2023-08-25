@@ -18,6 +18,8 @@
 * After Poly Network was attacked, Beosin KYT/AML keeps tracing the flow of stolen funds and monitoring the hacker.pdf --July 04, 2023
 * Eralend Suffers $3.4 Million in Losses from Attack.pdf--July 31,2023
 * Multiple Projects Attacked Due to Vyper Reentrancy Vulnerability with a total loss of more than $59 Million.pdf--July 31,2023
+* Zunami Protocol Attacked for Price Manipulation with a Loss of $2.1M.pdf--Aug 15,2023
+* Analysis of Exactly Protocol’s $7.3M Exploit，How the Permit Check is Bypassed.pdf--Aug 22,2023
 
 
 
